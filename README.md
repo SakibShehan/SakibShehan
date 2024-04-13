@@ -23,8 +23,6 @@ Skills: C / C++  / JAVA/HTML / CSS/JS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SakibShehan&show_icons=true&count_private=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/SakibShehan/contributions?format=svg&private=true)  
-
 ![GitHub metrics](https://metrics.lecoq.io/SakibShehan)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=SakibShehan)  
