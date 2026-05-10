@@ -2,14 +2,14 @@
 ### Hi there 👋, I'm Sakib Hossen Shehan
 #### Competitive Programmer and Software Engineer
 
-I am a competitive programmer studying in computer science and Engineering. I love to solve real world problems. I'm strategic, goal oriented, and always work with an end goal in mind. I pride myself on doing quality work and excellent communication.
+I am a competitive programmer and fresh CSE graduate. I love to solve real world problems. I'm strategic, goal oriented, and always work with an end goal in mind. I pride myself on doing quality work and excellent communication.
 
-Skills: C / C++ / JAVA / HTML / CSS / JS
+Skills: C / C++ / JAVA / Spring boot / HTML / CSS / JS / React
 
-- 🔭 I’m currently working on C++ 
-- 🌱 I’m currently learning JAVA and JAVASCRIPT 
+- 🔭 I’m currently working on Spring boot and Blockchain
+- 🌱 I’m currently learning Docker and React 
 - 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Programming 
+- 💬 Ask me about Problem solving and Backend Development
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SakibShehan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sh.shehan.5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sakibshehan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sakib-shehan)
 
